@@ -7,7 +7,6 @@
 		return Math.abs(n % 2) == 1;
 	}
 
-	
 	function randomIntFromInterval(min,max) {
 		return Math.floor(Math.random()*(max-min+1)+min);
 	}
